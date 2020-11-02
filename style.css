@@ -71,9 +71,16 @@ textarea{
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #3f775f;
-  color: white;
+  color:  rgb(236, 234, 234);
   height: 100%;
   width:100%;
+}
+
+footer {
+  text-align: center;
+  padding-top: 10px;
+  background-color: black;
+  margin-top: 10px;
 }
 
 .saveBtn i:hover {
